@@ -1,0 +1,83 @@
+.categ {
+    margin-left: 100px;
+    color: #1E1E1E 100%;
+    font-family: Montserrat-Regular;
+    font-size: 11px;
+    display: inline-block;
+}
+.empty {
+    display: inline-block;
+    height:100px;
+    width:640px;
+}
+.add_art {
+    color: #1E1E1E 100%;
+    font-family: Montserrat-Regular;
+    font-size: 14px;
+    border:1px;
+    border-radius: 50px;
+    border-color: #9b9b9b 100%;
+    display:block;
+    margin-top: 130px;
+    width:300px;
+    height: 60px;
+    margin-left: 1000px;
+}
+.grand_title {
+    margin-left: 350px;
+    width:780px;
+    font-family: Montserrat-Regular;
+    font-size: 46px;
+    margin-top: 90px;
+    display: block;
+}
+
+.under_title {
+    color:#9b9b9b;
+    font-family: Montserrat-Regular;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.first {
+    margin-left: 350px;
+    display: inline-block;
+}
+.by {
+    display: inline-block;
+}
+.dot {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+}
+.name {
+    display: inline-block;
+    color:#1E1E1E;
+}
+
+.date {
+    display: inline-block;
+
+}
+.edit_del {
+    color:#1E1E1E;
+    font-family: Montserrat-Regular;
+    font-size: 14px;
+    margin-left: 1250px;
+    margin-bottom: 20px;
+}
+.image {
+    margin-left: 80px;
+}
+.descript {
+    margin-left: 350px;
+    width:780px;
+    font-family: Cardo-Regular;
+    color: #1E1E1E;
+    font-size: 16px;
+}
+.secline {
+    margin-top: 0px;
+    margin-left: 500px;
+}
